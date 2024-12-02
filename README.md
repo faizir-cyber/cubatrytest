@@ -1,2 +1,2 @@
 # cubatrytest
-training inro smart manufacturing
+training intro smart manufacturing
